@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shrey Mohan
-Skills: html ,css ,bootstrap , javascript , reactjs , nodejs , express.js , mySQL , C++ , jQuery
-Email: shreymohan2003#gmail.com
-{{/user}} 
